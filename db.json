@@ -968,24 +968,5 @@
   "tokenID":"15278",
   "value":" ",
   "volume":" "
-  },
-  {
-  "astCls":"cash",
-  "category":"TOPGAINER",
-  "change":"2.55",
-  "changePer":"9.96",
-  "close":"25.60",
-  "details":"SANGHVI FOR & ENG LTD",
-  "divider":"100",
-  "exchName":"NSE",
-  "isinCode":"INE263L01013",
-  "ltp":"28.15",
-  "mktSegID":"1",
-  "precsn":"2",
-  "series":" ",
-  "symbolName":"SANGHVIFOR",
-  "tokenID":"23824",
-  "value":" ",
-  "volume":" "
   }
 ]
